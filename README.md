@@ -8,12 +8,30 @@ The text is all gibberish, but that's fine. You can feel free to use [your own L
 
 A couple notes:
 
-* All gray text are considered to be links. Therefore, at the top of the page is meant to be a list of links (a navigation bar).
+* All the orange text are considered to be links. Therefore, at the top of the page is meant to be a list of links (a navigation bar).
 * For all links feel free to use `href="#"` for each of these.     
-* Pay attention to the case of the text in the heading and the navigation bar. For a hint, check out the [font-variant property](https://www.w3schools.com/cssref/pr_font_font-variant.asp).
-* You will have to use several classes to make your page look exactly like the image. So think carefully about where you might use these classes.
-* This time, we _have_ covered everything you need to know to accomplish this. But you will possibly have to use Google just a little bit to help out. The reference at the end of the text should also be helpful.
+* Pay attention to the case of the text in the heading and the navigation bar. These are called small caps. See if you can figure that out.
+* You are free to use classes and ids as much as you like to replicate the page.
+* This time, we _have_ covered everything you need to know to accomplish this. But you will possibly have to use a search engine just a little bit to help out. The reference at the end of the text should also be helpful. W3Schools is always useful.
 
 Here's the list of keywords from this chapter:
 
-![Keyword List](assets/keywords.png)
+## Vocabulary
+
+* padding
+* border
+* selector
+* element selector
+* class selector
+* id selector
+* class names
+* id names
+* grouping selectors
+* nesting selectors
+* descendent selectors
+* asterisk selector
+* cascade
+* HTML family tree
+* CSS point system
+* inheritance
+* relative sizes
