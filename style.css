@@ -1,1 +1,29 @@
-/* Your Code Goes Here */
+ul {
+    list-style-type: none;
+}
+
+a { 
+    color: orange; 
+    text-decoration: none; 
+}
+
+.nav {
+    font-variant: small-caps;
+}
+
+.row-labels {
+    font-weight: bold;
+}
+
+.top-border {
+    border-top-width: 1px;
+    border-top-style: solid; 
+}
+
+table {
+    border-top-width: 2px;
+    border-top-style: solid; 
+    border-bottom-width: 2px;
+    border-bottom-style: solid; 
+}
+
